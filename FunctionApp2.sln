@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28113.53
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionApp2", "FunctionApp2\FunctionApp2.csproj", "{D21786B4-9DF7-4215-9816-5FBA39DAB541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D21786B4-9DF7-4215-9816-5FBA39DAB541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D21786B4-9DF7-4215-9816-5FBA39DAB541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D21786B4-9DF7-4215-9816-5FBA39DAB541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D21786B4-9DF7-4215-9816-5FBA39DAB541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E3B073D-81C1-4E56-9A5D-43EDEA691E4C}
+	EndGlobalSection
+EndGlobal

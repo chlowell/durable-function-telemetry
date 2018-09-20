@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FunctionApp2": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "APPINSIGHTS_INSTRUMENTATIONKEY": "b5b0a37e-6db7-45a6-8319-23b572cb1cec"
+      }
+    }
+  }
+}
